@@ -1,0 +1,9 @@
+/* Decorative concentric circles from prod's .cta-grad background-image */
+.cta-banner {
+  background-image: url('../images/cta-circle.svg');
+  background-repeat: no-repeat;
+  background-position: 80% 5%;
+  background-size: 700px 700px;
+  position: relative;
+  overflow: hidden;
+}
