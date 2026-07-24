@@ -1,4 +1,0 @@
-/* prod's custom .shadow-card utility (not a stock Tailwind shadow) */
-.hero-card {
-  box-shadow: 0 4px 65px 1px #00072b36;
-}

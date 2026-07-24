@@ -1,9 +1,0 @@
-/* Matches enterprise.accredian.com's nav: fixed, 80px tall, py-6 px-6 md:px-14 */
-.navbar-bar {
-  height: 5rem;
-}
-
-.navbar-logo {
-  width: 124px;
-  height: 32px;
-}
