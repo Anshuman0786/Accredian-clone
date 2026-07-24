@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Prod's only font weight — self-hosted from enterprise.accredian.com, see docs/prod-styles.md */
+@font-face {
+  font-family: circular;
+  src: url('./assets/fonts/circular-book.woff2');
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-white font-sans text-ink-600;
+}
